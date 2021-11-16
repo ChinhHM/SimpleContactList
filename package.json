@@ -27,7 +27,7 @@
   "homepage": "https://github.com/chhunchha/simplemeanapp#readme",
   "dependencies": {
     "assert": "^1.4.1",
-    "aws-sdk": "^2.463.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
     "express": "^4.13.4",
